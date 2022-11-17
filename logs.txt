@@ -1,0 +1,3 @@
+Kay - 17.11.2022
+>>i will fill this up with stuff i make + how its made / how it works cuz i wanna understand OkaygeBusiness
+>>npx tsc --init for tsconfig
